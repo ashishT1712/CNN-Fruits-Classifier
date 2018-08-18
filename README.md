@@ -31,3 +31,4 @@ We applied convolutional neural network on the image data set with three convolu
 4. Supports both convolutional networks and recurrent networks, as well as combinations of the two.
 5. Runs seamlessly on CPU and GPU.
 
+Accuracy achieved = 89.9%
