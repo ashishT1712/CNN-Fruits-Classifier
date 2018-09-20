@@ -8,6 +8,9 @@ Deep Learning - Convolution Neural network for fruits dataset
 4. Number of classes: 60 (fruits).
 5. Image size: 100x100 pixels.
 
+# Data location
+Dataset can be downloaded from (https://www.kaggle.com/moltean/fruits)
+
 # Convolution Neural Network
 A CNN is comprised of one or more convolutional layers and then followed by one or more fully connected layers as in a standard multilayer neural network
 1. Convolution
