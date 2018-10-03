@@ -8,7 +8,7 @@ Deep Learning - Convolution Neural network for fruits dataset
 4. Number of classes: 60 (fruits).
 5. Image size: 100x100 pixels.
 
-![screenshot] (https://github.com/ashishT1712/CNNfruits/blob/master/Capture.PNG)
+![FruitTable](https://github.com/ashishT1712/CNNfruits/blob/master/Capture.PNG)
 
 # Data location
 Dataset can be downloaded from (https://www.kaggle.com/moltean/fruits)
