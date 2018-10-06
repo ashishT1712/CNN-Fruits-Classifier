@@ -10,6 +10,10 @@ Deep Learning - Convolution Neural network for fruits dataset
 
 ![FruitTable](https://github.com/ashishT1712/CNNfruits/blob/master/Capture.PNG)
 
+
+![multifruits](https://github.com/ashishT1712/CNN-Fruits-Classifier/blob/master/test%20fruits/apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg)
+
+
 # Data location
 Dataset can be downloaded from (https://www.kaggle.com/moltean/fruits)
 
