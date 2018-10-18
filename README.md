@@ -44,3 +44,4 @@ We applied convolutional neural network on the image data set with three convolu
 ![compare](https://github.com/ashishT1712/CNN-Fruits-Classifier/blob/master/Compare.png)
 
 Accuracy achieved = 89.9%
+
