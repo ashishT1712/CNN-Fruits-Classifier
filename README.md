@@ -15,7 +15,7 @@ Deep Learning - Convolution Neural network for fruits dataset
 
 
 # Data location
-Dataset can be downloaded from (https://www.kaggle.com/moltean/fruits)
+Dataset can be downloaded from *(https://www.kaggle.com/moltean/fruits)*
 
 # Convolution Neural Network
 A CNN is comprised of one or more convolutional layers and then followed by one or more fully connected layers as in a standard multilayer neural network
@@ -43,5 +43,5 @@ We applied convolutional neural network on the image data set with three convolu
 # Comparision between different Optimizers
 ![compare](https://github.com/ashishT1712/CNN-Fruits-Classifier/blob/master/Compare.png)
 
-Accuracy achieved = 89.9%
+__Accuracy achieved = 89.9%__
 
