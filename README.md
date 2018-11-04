@@ -1,5 +1,5 @@
 # CNNfruits
-Deep Learning - Convolution Neural network for fruits dataset
+Deep Learning - Convolution Neural network on fruits image dataset
 
 # Data Description
 1. Total Number of Images: 38409
